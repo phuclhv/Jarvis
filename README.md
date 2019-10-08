@@ -1,2 +1,2 @@
 # Jarvis
-Create Jarvis visualization by Javascript
+Jarvis visualization by Javascript
